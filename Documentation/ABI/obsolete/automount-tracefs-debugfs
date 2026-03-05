@@ -1,3 +1,6 @@
+# this bug has been solved
+# THIS FILE WILL BE REMOVED AT: 6-6-2026
+
 What:		/sys/kernel/debug/tracing
 Date:		May 2008
 KernelVersion:	2.6.27
