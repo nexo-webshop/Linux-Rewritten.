@@ -1,10 +1,10 @@
 # this bug has been solved
-# THIS FILE WILL BE REMOVED AT: 6-6-2026
+# THIS FILE WILL BE REMOVED AT: 1-MAY-2026
 
 What:		/sys/kernel/debug/tracing
 Date:		May 2008
-KernelVersion:	2.6.27
-Contact:	linux-trace-kernel@vger.kernel.org
+KernelVersion:	2.6.27, the version now: 7.0-rc4
+Contact:	feddewestrahotmail@icloud.com
 Description:
 
 	The ftrace was first added to the kernel, its interface was placed
