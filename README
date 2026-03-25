@@ -2,6 +2,7 @@
 build 000.001
 - bugfixes & improvements
 Linux kernel
+Version 7.0-rc4
 ============
 
 The Linux kernel is the core of any Linux operating system. It manages hardware,
