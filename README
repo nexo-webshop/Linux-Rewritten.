@@ -1,8 +1,9 @@
 # VERSION
 build 000.001
 - bugfixes & improvements
-Linux kernel
+Linux kernel base:
 Version 7.0-rc4
+nexo kernel. if project system fails, we work further on this.
 ============
 
 The Linux kernel is the core of any Linux operating system. It manages hardware,
@@ -170,3 +171,5 @@ Communication and Support
 * Bugzilla: https://bugzilla.kernel.org/
 * MAINTAINERS file: Lists subsystem maintainers and mailing lists
 * Email Clients: Documentation/process/email-clients.rst
+
+THIS WILL LATER ALL BE CHANGED TO NEXO KERNEL
