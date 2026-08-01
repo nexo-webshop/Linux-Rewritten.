@@ -2,8 +2,10 @@
 build 000.001
 - bugfixes & improvements
 Linux kernel base:
-Version 7.0-rc4
+Version 7.0-rc4.0.1
 nexo kernel. if project system fails, we work further on this.
+NOTE
+license will change soon to nexostudios0.1
 ============
 
 The Linux kernel is the core of any Linux operating system. It manages hardware,
