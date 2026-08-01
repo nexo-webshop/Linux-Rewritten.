@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: nexostudios0.1
+// SPDX-License-Identifier: GPL-v2
 /* This utility makes a bootblock suitable for the SRM console/miniloader */
 
 /* Usage:
